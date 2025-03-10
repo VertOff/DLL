@@ -1,3 +1,0 @@
-/home/vert/CLionProjects/DLL/cmake-build-debug/CMakeFiles/DLL.dir
-/home/vert/CLionProjects/DLL/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vert/CLionProjects/DLL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
